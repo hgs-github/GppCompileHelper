@@ -17,7 +17,7 @@ comfile()
 	else
 		g++ -o $outputName $fileName
 	fi
-}# comfile
+}
 
 main() {
 	local argLength=$#
